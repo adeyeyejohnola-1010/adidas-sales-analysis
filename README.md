@@ -26,7 +26,7 @@ The preparation process included:
 - Formatting operating margin as a percentage.
 - Organising the data for analysis and visualisation.
 
-Project Structure
+## Project Structure
 
 Pre-Analysis Board → Where I defined objectives and analytical approach
 
@@ -36,7 +36,7 @@ Dashboard Interface → Where I visualized key metrics
 
 Post-Analysis Board → Where I summarized findings and recommendations
 
-## Project Objectives
+##Objectives
 
 - Evaluate overall sales and profitability.
 - Identify the highest-performing geographical regions.
@@ -88,21 +88,32 @@ Post-Analysis Board → Where I summarized findings and recommendations
 
 - **Overall Performance:** Adidas generated approximately $899.90 million in total sales, with $332.13 million in operating profit and 2.48 million units sold.
 
+- - **Profitability:** The overall operating margin was approximately 36.91%.
+  
+
 - **Regional Performance:** The West region recorded the highest sales, contributing approximately $269.94 million.
+<img width="353" height="190" alt="addidas 2" src="https://github.com/user-attachments/assets/e0177b0f-344b-40b4-8ca8-3f79f4f770e2" />
+
 
 - **Retailer Performance:** West Gear generated the highest retailer revenue at approximately $242.96 million, followed by Foot Locker.
+<img width="411" height="179" alt="addidas 5" src="https://github.com/user-attachments/assets/979ee812-e755-4566-914d-a5db39b290c2" />
+
 
 - **Product Performance:** Men's Street Footwear was the leading product category, generating approximately $208.83 million in revenue.
+- <img width="417" height="214" alt="adeyeye 7" src="https://github.com/user-attachments/assets/13a32f2b-0599-4c53-a541-79528ca976c1" />
+
 
 - **Sales Channel Performance:** In-store sales generated the highest revenue at approximately $356.64 million.
+<img width="348" height="222" alt="adidas 4" src="https://github.com/user-attachments/assets/52c5c8c0-a186-4310-b30b-41a88ef50db3" />
+
 
 - **State Performance:** New York recorded the highest state revenue at approximately $64.23 million.
+<img width="394" height="227" alt="adeyeye 3" src="https://github.com/user-attachments/assets/37f2a9e1-e397-4841-8f5c-5827e24722c1" />
 
 - **City Performance:** Charleston recorded the highest city revenue at approximately $39.97 million.
 
 - **Quarterly Performance:** The third quarter recorded the highest revenue at approximately $265.31 million.
-
-- **Profitability:** The overall operating margin was approximately 36.91%.
+- <img width="405" height="204" alt="addidas one" src="https://github.com/user-attachments/assets/fafe6a85-b2dc-46aa-8a18-e9569ad38cd0" />
 
 ## Recommendations
 
