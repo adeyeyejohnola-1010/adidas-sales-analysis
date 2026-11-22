@@ -88,6 +88,8 @@ Post-Analysis Board → Where I summarized findings and recommendations
 
 - **Overall Performance:** Adidas generated approximately $899.90 million in total sales, with $332.13 million in operating profit and 2.48 million units sold.
 
+
+
 - **Profitability:** The overall operating margin was approximately 36.91%.
   
 
@@ -96,8 +98,12 @@ Post-Analysis Board → Where I summarized findings and recommendations
 
 
 
+
+
 - **Retailer Performance:** West Gear generated the highest retailer revenue at approximately $242.96 million, followed by Foot Locker.
 <img width="411" height="179" alt="addidas 5" src="https://github.com/user-attachments/assets/979ee812-e755-4566-914d-a5db39b290c2" />
+
+
 
 
 
@@ -106,8 +112,12 @@ Post-Analysis Board → Where I summarized findings and recommendations
 
 
 
+
+
 - **Sales Channel Performance:** In-store sales generated the highest revenue at approximately $356.64 million.
 <img width="348" height="222" alt="adidas 4" src="https://github.com/user-attachments/assets/52c5c8c0-a186-4310-b30b-41a88ef50db3" />
+
+
 
 
 
@@ -119,8 +129,11 @@ Post-Analysis Board → Where I summarized findings and recommendations
 - 
 
 
+
 - **Quarterly Performance:** The third quarter recorded the highest revenue at approximately $265.31 million.
 - <img width="405" height="204" alt="addidas one" src="https://github.com/user-attachments/assets/fafe6a85-b2dc-46aa-8a18-e9569ad38cd0" />
+
+
 
 
 ## Recommendations
